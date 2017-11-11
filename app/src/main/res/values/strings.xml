@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidGit</string>
     <string name="happy_new_year">Happy New Year!</string>
+    <string name="fucking_cold">Fucking cold!</string>
 </resources>
